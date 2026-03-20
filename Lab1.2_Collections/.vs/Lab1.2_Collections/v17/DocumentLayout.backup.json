@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.2_Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F2CC9E-4C97-4279-BD9B-67A646E342B9}|Lab1.2_Collections\\Lab1.2_Collections.csproj|c:\\users\\user\\documents\\advanced programming\\lab1.2_collections\\lab1.2_collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F2CC9E-4C97-4279-BD9B-67A646E342B9}|Lab1.2_Collections\\Lab1.2_Collections.csproj|solutionrelative:lab1.2_collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F2CC9E-4C97-4279-BD9B-67A646E342B9}|Lab1.2_Collections\\Lab1.2_Collections.csproj|c:\\users\\user\\documents\\advanced programming\\lab1.2_collections\\lab1.2_collections\\accountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F2CC9E-4C97-4279-BD9B-67A646E342B9}|Lab1.2_Collections\\Lab1.2_Collections.csproj|solutionrelative:lab1.2_collections\\accountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F2CC9E-4C97-4279-BD9B-67A646E342B9}|Lab1.2_Collections\\Lab1.2_Collections.csproj|c:\\users\\user\\documents\\advanced programming\\lab1.2_collections\\lab1.2_collections\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F2CC9E-4C97-4279-BD9B-67A646E342B9}|Lab1.2_Collections\\Lab1.2_Collections.csproj|solutionrelative:lab1.2_collections\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 133,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Accountant.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.2_Collections\\Lab1.2_Collections\\Accountant.cs",
+              "RelativeDocumentMoniker": "Lab1.2_Collections\\Accountant.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.2_Collections\\Lab1.2_Collections\\Accountant.cs",
+              "RelativeToolTip": "Lab1.2_Collections\\Accountant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T17:01:57.311Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.2_Collections\\Lab1.2_Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1.2_Collections\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.2_Collections\\Lab1.2_Collections\\Program.cs*",
+              "RelativeToolTip": "Lab1.2_Collections\\Program.cs*",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAuwBMBAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T17:00:02.889Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.2_Collections\\Lab1.2_Collections\\Employee.cs",
+              "RelativeDocumentMoniker": "Lab1.2_Collections\\Employee.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.2_Collections\\Lab1.2_Collections\\Employee.cs",
+              "RelativeToolTip": "Lab1.2_Collections\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T17:01:27.624Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 53,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

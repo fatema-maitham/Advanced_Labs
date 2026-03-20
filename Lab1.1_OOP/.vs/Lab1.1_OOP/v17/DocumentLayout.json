@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.1_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99DAB6-4BD3-49E2-8855-EF94AB268127}|Lab1.1_OOP\\Lab1.1_OOP.csproj|c:\\users\\user\\documents\\advanced programming\\lab1.1_oop\\lab1.1_oop\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99DAB6-4BD3-49E2-8855-EF94AB268127}|Lab1.1_OOP\\Lab1.1_OOP.csproj|solutionrelative:lab1.1_oop\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99DAB6-4BD3-49E2-8855-EF94AB268127}|Lab1.1_OOP\\Lab1.1_OOP.csproj|c:\\users\\user\\documents\\advanced programming\\lab1.1_oop\\lab1.1_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99DAB6-4BD3-49E2-8855-EF94AB268127}|Lab1.1_OOP\\Lab1.1_OOP.csproj|solutionrelative:lab1.1_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99DAB6-4BD3-49E2-8855-EF94AB268127}|Lab1.1_OOP\\Lab1.1_OOP.csproj|c:\\users\\user\\documents\\advanced programming\\lab1.1_oop\\lab1.1_oop\\accountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99DAB6-4BD3-49E2-8855-EF94AB268127}|Lab1.1_OOP\\Lab1.1_OOP.csproj|solutionrelative:lab1.1_oop\\accountant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99DAB6-4BD3-49E2-8855-EF94AB268127}|Lab1.1_OOP\\Lab1.1_OOP.csproj|c:\\users\\user\\documents\\advanced programming\\lab1.1_oop\\lab1.1_oop\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B99DAB6-4BD3-49E2-8855-EF94AB268127}|Lab1.1_OOP\\Lab1.1_OOP.csproj|solutionrelative:lab1.1_oop\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 93,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.1_OOP\\Lab1.1_OOP\\Manager.cs",
+              "RelativeDocumentMoniker": "Lab1.1_OOP\\Manager.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.1_OOP\\Lab1.1_OOP\\Manager.cs",
+              "RelativeToolTip": "Lab1.1_OOP\\Manager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T21:22:28.12Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.1_OOP\\Lab1.1_OOP\\Employee.cs",
+              "RelativeDocumentMoniker": "Lab1.1_OOP\\Employee.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.1_OOP\\Lab1.1_OOP\\Employee.cs",
+              "RelativeToolTip": "Lab1.1_OOP\\Employee.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:40:00.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.1_OOP\\Lab1.1_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1.1_OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.1_OOP\\Lab1.1_OOP\\Program.cs",
+              "RelativeToolTip": "Lab1.1_OOP\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:39:36.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Accountant.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.1_OOP\\Lab1.1_OOP\\Accountant.cs",
+              "RelativeDocumentMoniker": "Lab1.1_OOP\\Accountant.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab1.1_OOP\\Lab1.1_OOP\\Accountant.cs",
+              "RelativeToolTip": "Lab1.1_OOP\\Accountant.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:48:47.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\bin\Debug\net9.0\Lab1.1_OOP.exe
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\bin\Debug\net9.0\Lab1.1_OOP.deps.json
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\bin\Debug\net9.0\Lab1.1_OOP.runtimeconfig.json
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\bin\Debug\net9.0\Lab1.1_OOP.dll
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\bin\Debug\net9.0\Lab1.1_OOP.pdb
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\obj\Debug\net9.0\Lab1.1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\obj\Debug\net9.0\Lab1.1_OOP.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\obj\Debug\net9.0\Lab1.1_OOP.AssemblyInfo.cs
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\obj\Debug\net9.0\Lab1.1_OOP.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\obj\Debug\net9.0\Lab1.1_OOP.dll
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\obj\Debug\net9.0\refint\Lab1.1_OOP.dll
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\obj\Debug\net9.0\Lab1.1_OOP.pdb
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\obj\Debug\net9.0\Lab1.1_OOP.genruntimeconfig.cache
+C:\Users\USER\Documents\Advanced Programming\Lab1.1_OOP\Lab1.1_OOP\obj\Debug\net9.0\ref\Lab1.1_OOP.dll

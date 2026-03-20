@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab2.2_DatabaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9987FED4-181B-44B4-BFE3-BCF268921A17}|Lab2.2_DatabaseFirst\\Lab2.2_DatabaseFirst.csproj|c:\\users\\user\\documents\\advanced programming\\lab2.2_databasefirst\\lab2.2_databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9987FED4-181B-44B4-BFE3-BCF268921A17}|Lab2.2_DatabaseFirst\\Lab2.2_DatabaseFirst.csproj|solutionrelative:lab2.2_databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9987FED4-181B-44B4-BFE3-BCF268921A17}|Lab2.2_DatabaseFirst\\Lab2.2_DatabaseFirst.csproj|c:\\users\\user\\documents\\advanced programming\\lab2.2_databasefirst\\lab2.2_databasefirst\\models\\studentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9987FED4-181B-44B4-BFE3-BCF268921A17}|Lab2.2_DatabaseFirst\\Lab2.2_DatabaseFirst.csproj|solutionrelative:lab2.2_databasefirst\\models\\studentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2107,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab2.2_DatabaseFirst\\Lab2.2_DatabaseFirst\\Models\\StudentExtensions.cs",
+              "RelativeDocumentMoniker": "Lab2.2_DatabaseFirst\\Models\\StudentExtensions.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab2.2_DatabaseFirst\\Lab2.2_DatabaseFirst\\Models\\StudentExtensions.cs",
+              "RelativeToolTip": "Lab2.2_DatabaseFirst\\Models\\StudentExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T01:41:02.839Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab2.2_DatabaseFirst\\Lab2.2_DatabaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2.2_DatabaseFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Advanced Programming\\Lab2.2_DatabaseFirst\\Lab2.2_DatabaseFirst\\Program.cs",
+              "RelativeToolTip": "Lab2.2_DatabaseFirst\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAQwHwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T01:06:05.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

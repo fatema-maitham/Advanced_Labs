@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\bin\Debug\net9.0\Lab1.2_Collections.exe
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\bin\Debug\net9.0\Lab1.2_Collections.deps.json
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\bin\Debug\net9.0\Lab1.2_Collections.runtimeconfig.json
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\bin\Debug\net9.0\Lab1.2_Collections.dll
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\bin\Debug\net9.0\Lab1.2_Collections.pdb
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\obj\Debug\net9.0\Lab1.2_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\obj\Debug\net9.0\Lab1.2_Collections.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\obj\Debug\net9.0\Lab1.2_Collections.AssemblyInfo.cs
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\obj\Debug\net9.0\Lab1.2_Collections.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\obj\Debug\net9.0\Lab1.2_Collections.dll
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\obj\Debug\net9.0\refint\Lab1.2_Collections.dll
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\obj\Debug\net9.0\Lab1.2_Collections.pdb
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\obj\Debug\net9.0\Lab1.2_Collections.genruntimeconfig.cache
+C:\Users\USER\Documents\Advanced Programming\Lab1.2_Collections\Lab1.2_Collections\obj\Debug\net9.0\ref\Lab1.2_Collections.dll
