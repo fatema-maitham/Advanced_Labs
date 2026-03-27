@@ -1,32 +1,43 @@
-# Prerequisites
-*.d
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+## Visual Studio cache/options
+.vs/
 
-# Precompiled Headers
-*.gch
-*.pch
+## Visual Studio Code
+.vscode/
+*.code-workspace
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Fortran module files
-*.mod
-*.smod
+## NuGet
+*.nupkg
+*.snupkg
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+## IDE
+_ReSharper*/
+*.DotSettings.user
+.idea/
+*.sln.iml
 
-# Executables
-*.exe
-*.out
-*.app
+## OS
+.DS_Store
+Thumbs.db
