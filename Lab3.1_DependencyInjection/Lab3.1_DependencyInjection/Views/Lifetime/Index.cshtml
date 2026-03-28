@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Service Lifetimes";
+}
+
+<h2>Service Lifetime Comparison</h2>
+<p>
+    Current request time:
+    <strong>@ViewBag.RequestTime</strong>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Lifetime</th>
+            <th>Created At</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Transient</td>
+            <td>@ViewBag.TransientCreatedAt</td>
+        </tr>
+        <tr>
+            <td>Scoped</td>
+            <td>@ViewBag.ScopedCreatedAt</td>
+        </tr>
+        <tr>
+            <td>Singleton</td>
+            <td>@ViewBag.SingletonCreatedAt</td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="text-muted">
+    Refresh the page multiple times and
+    observe which timestamps change.
+</p>
