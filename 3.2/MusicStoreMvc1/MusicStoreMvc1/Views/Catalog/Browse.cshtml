@@ -1,0 +1,30 @@
+﻿@model IEnumerable<MusicStoreMvc1.Models.Album>
+@{
+    ViewData["Title"] = "Catalog - " + ViewBag.GenreName;
+}
+
+<h2>@ViewBag.GenreName Albums</h2>
+@if (!string.IsNullOrEmpty(ViewBag.ArtistName))
+{
+    <h4>Filtered by artist: @ViewBag.ArtistName</h4>
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Artist</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var album in Model)
+        {
+            <tr>
+                <td>@album.Title</td>
+                <td>@album.Artist.Name</td>
+                <td>@album.Price.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>

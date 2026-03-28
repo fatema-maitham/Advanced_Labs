@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Album Statistics";
+}
+
+<h2>Album Statistics</h2>
+<dl class="row">
+    <dt class="col-sm-4">Total Albums</dt>
+    <dd class="col-sm-8">@ViewBag.TotalAlbums</dd>
+    <dt class="col-sm-4">Average Price</dt>
+    <dd class="col-sm-8">@ViewBag.AveragePrice?.ToString("C")</dd>
+    <dt class="col-sm-4">Most Expensive</dt>
+    <dd class="col-sm-8">
+        @ViewBag.MostExpensive (@ViewBag.HighestPrice?.ToString("C"))
+    </dd>
+</dl> 
